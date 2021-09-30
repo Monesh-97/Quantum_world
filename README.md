@@ -1,2 +1,2 @@
 # Quantum_world
-Quantum codes
+Quantum Programs & Algorithms
